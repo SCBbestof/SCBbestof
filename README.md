@@ -12,13 +12,19 @@
     <img alt="Opensource" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
   </a>
   <a href="https://medium.com/@bogdanrevian">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E&logo=medium">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&color=%2347AE8E">
+  </a>
+  <a href="https://steamcommunity.com/id/SCBbestof/">
+    <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?logo=steam&color=%2347AE8E">
+  </a>
+  <a href="https://revianlabs.com/">
+    <img alt="RevianLabs" src="https://img.shields.io/badge/-RevianLabs-%2347AE8E">
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working **[@Nagarro](https://www.nagarro.com/en)**
-- :microscope: &nbsp;Contributing to open-source via  **[@RevianLabs](https://www.revianlabs.com)**
-- :heart: &nbsp;Passionate about **Homelabbing** and **OSS**
+- :office: &nbsp;Currently working **[@Nagarro](https://www.nagarro.com/en)**
+- :computer: &nbsp;**FOSSing** arround via **[@RevianLabs](https://www.revianlabs.com)** :microscope:
+- :heart: &nbsp;Passionate about **Homelabbing** and **Finance**
 - :mailbox: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/bogdansocaciu/)**
 
 <br>
