@@ -24,6 +24,7 @@
 
 - :office: &nbsp;Currently working **[@Nagarro](https://www.nagarro.com/en)**
 - :computer: &nbsp;**FOSSing** arround via **[@RevianLabs](https://www.revianlabs.com)** :microscope:
+- :cat: &nbsp;Doing **Animal Rescue** **[@iCare](https://www.facebook.com/iCareBecauseYouCare/)** :dog:
 - :newspaper: &nbsp;Former SRE **[@Financial Times](https://github.com/Financial-Times)** 
 - :green_heart: &nbsp;Former Intern **[@MongoDB](https://github.com/mongodb)** 
 - :heart: &nbsp;Passionate about **Homelabbing** and **Finance**
