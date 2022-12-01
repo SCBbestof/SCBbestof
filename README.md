@@ -33,8 +33,8 @@
 <br>
 
 <div align="left">
-  <img height="207em" src="https://github-readme-stats.vercel.app/api?username=scbbestof&show_icons=true&theme=transparent&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" align = "left"/>
-  <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scbbestof&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "rifht"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=scbbestof&show_icons=true&theme=transparent&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" align = "left"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scbbestof&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "rifht"/>
 </div>
 
 <br/>
@@ -51,9 +51,6 @@ Join the [🦜 parrot](https://cultofthepartyparrot.com) cult:
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
