@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Bogdan</h1>
-<h3 align="left">I am a professional fixer-do'er, mainly working on DevOps Engineering things</h3>
+<h3 align="left">I'm a semi-professional fixer-do'er, mainly working on DevOps Engineering thingies</h3>
 
 <p align="left">
   <a href="https://github.com/scbbestof?tab=followers">
@@ -10,6 +10,9 @@
   </a>
   <a href="https://github.com/scbbestof">
     <img alt="Opensource" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
+  </a>
+  <a href="https://medium.com/@bogdanrevian">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E&logo=medium">
   </a>
 </p>
 
