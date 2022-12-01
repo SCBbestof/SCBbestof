@@ -32,21 +32,21 @@
 
 <br>
 
-<a href="#scbbestof-github">
-  <img align="left" src="https://raw.githubusercontent.com/scbbestof/github-stats-transparent/output/generated/overview.svg" alt="scbbestof" align="right" />
-</a>
+<div align="left">
+  <img height="207em" src="https://github-readme-stats.vercel.app/api?username=scbbestof&show_icons=true&theme=transparent&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" align = "left"/>
+  <img height="207em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scbbestof&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "rifht"/>
+</div>
 
-<a href="#scbbestof-github">
-  <img align="left" src="https://raw.githubusercontent.com/scbbestof/github-stats-transparent/output/generated/languages.svg" alt="scbbestof" align="right" />
-</a>
+<br/>
 
+<div aligh="left">
+  
 Join the [🦜 parrot](https://cultofthepartyparrot.com) cult:
 
-<div>
+<p>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
@@ -67,4 +67,5 @@ Join the [🦜 parrot](https://cultofthepartyparrot.com) cult:
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</p>
 </div>
