@@ -5,7 +5,7 @@
   <a href="https://github.com/scbbestof?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/scbbestof?color=green&logo=github">
   </a>
-  <a href="https://github.com/scbbestof?tab=followers">
+  <a href="https://revianlabs.com">
     <img alt="RevianLabs" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Frevianlabs.com">
   </a>
   <a href="https://github.com/scbbestof">
