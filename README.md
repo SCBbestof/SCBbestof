@@ -25,6 +25,7 @@
 - :dart: &nbsp;Senior Engineer **[@CrowdStrike](https://www.crowdstrike.com/)**
 - :computer: &nbsp;**FOSSing** arround **[@RevianLabs](https://www.revianlabs.com)** :microscope:
 - :cat: &nbsp;Doing **Animal Rescue** **[@iCare](https://www.facebook.com/iCareBecauseYouCare/)** :dog:
+- :office: &nbsp;Former Principal Engineer **[@Nagarro](https://www.nagarro.com/en)**
 - :newspaper: &nbsp;Former SRE **[@Financial Times](https://github.com/Financial-Times)** 
 - :green_heart: &nbsp;Former Intern **[@MongoDB](https://github.com/mongodb)** 
 - :heart: &nbsp;Passionate about **Homelabbing** and **Finance**
