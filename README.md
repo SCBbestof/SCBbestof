@@ -45,8 +45,8 @@
 <br>
 
 <div align="left">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=scbbestof&show_icons=true&theme=transparent&count_private=true&line_height=28&hide_border=1&include_all_commits=true" align = "left"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scbbestof&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "rifht"/>
+<!--   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=scbbestof&show_icons=true&theme=transparent&count_private=true&line_height=28&hide_border=1&include_all_commits=true" align = "left"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scbbestof&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "rifht"/> -->
 </div>
 
 <br/>
@@ -57,7 +57,6 @@ Join the [🦜 parrot](https://cultofthepartyparrot.com) cult:
 
 <p>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
