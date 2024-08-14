@@ -23,7 +23,6 @@
 </p>
 
 - :dart: &nbsp;Senior Engineer **[@CrowdStrike](https://www.crowdstrike.com/)**
-- :office: &nbsp;Principal Engineer **[@Nagarro](https://www.nagarro.com/en)**
 - :computer: &nbsp;**FOSSing** arround **[@RevianLabs](https://www.revianlabs.com)** :microscope:
 - :cat: &nbsp;Doing **Animal Rescue** **[@iCare](https://www.facebook.com/iCareBecauseYouCare/)** :dog:
 - :newspaper: &nbsp;Former SRE **[@Financial Times](https://github.com/Financial-Times)** 
