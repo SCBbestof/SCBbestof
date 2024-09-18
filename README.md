@@ -2,8 +2,8 @@
 <h3 align="left">I'm a semi-professional fixer-do'er, mainly working on DevOps Engineering thingies</h3>
 
 <p align="left">
-  <a href="https://github.com/scbbestof?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/scbbestof?color=green&logo=github">
+  <a href="https://github.com/bsocaciu?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bsocaciu?color=green&logo=github">
   </a>
   <a href="https://revianlabs.com">
     <img alt="RevianLabs" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Frevianlabs.com">
