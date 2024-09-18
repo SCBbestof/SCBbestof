@@ -8,7 +8,7 @@
   <a href="https://revianlabs.com">
     <img alt="RevianLabs" src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Frevianlabs.com">
   </a>
-  <a href="https://github.com/scbbestof">
+  <a href="https://github.com/bsocaciu">
     <img alt="Opensource" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
   </a>
   <a href="https://medium.com/@bogdanrevian">
